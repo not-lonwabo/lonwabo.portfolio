@@ -30,6 +30,14 @@ p {
   float: left;
 }
 
+.description {
+  width: 48%;
+  float: right;
+  margin-top: 40vh;
+  margin-bottom: 40vh;
+  padding-right: 2em;
+}
+
 .about {
   width: 48%;
   float: right;
@@ -37,7 +45,6 @@ p {
 }
 
 .intro-section {
-  position: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
